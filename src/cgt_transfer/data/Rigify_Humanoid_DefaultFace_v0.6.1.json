@@ -550,7 +550,7 @@
     "cgt_left_ankle":{
         "cgt_props":{
             "active":false,
-            "driver_type":"CHAIN",
+            "driver_type":"NONE",
             "use_loc_x":{
                 "active":false,
                 "remap_none":"DEFAULT",
@@ -771,7 +771,7 @@
     "cgt_left_hip":{
         "cgt_props":{
             "active":false,
-            "driver_type":"CHAIN",
+            "driver_type":"NONE",
             "use_loc_x":{
                 "active":false,
                 "remap_none":"DEFAULT",
@@ -808,7 +808,7 @@
     "cgt_left_knee":{
         "cgt_props":{
             "active":false,
-            "driver_type":"CHAIN",
+            "driver_type":"NONE",
             "use_loc_x":{
                 "active":false,
                 "remap_none":"DEFAULT",
@@ -2027,7 +2027,7 @@
     "cgt_right_ankle":{
         "cgt_props":{
             "active":false,
-            "driver_type":"CHAIN",
+            "driver_type":"NONE",
             "use_loc_x":{
                 "active":false,
                 "remap_none":"DEFAULT",
@@ -2248,7 +2248,7 @@
     "cgt_right_hip":{
         "cgt_props":{
             "active":false,
-            "driver_type":"CHAIN",
+            "driver_type":"NONE",
             "use_loc_x":{
                 "active":false,
                 "remap_none":"DEFAULT",
@@ -2285,7 +2285,7 @@
     "cgt_right_knee":{
         "cgt_props":{
             "active":false,
-            "driver_type":"CHAIN",
+            "driver_type":"NONE",
             "use_loc_x":{
                 "active":false,
                 "remap_none":"DEFAULT",
